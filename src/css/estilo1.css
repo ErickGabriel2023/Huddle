@@ -1,0 +1,137 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+main {
+    background-color: #fff;
+    width: 100vw;
+    margin: 0 auto;
+    padding: 50px 0 50px 0;
+}
+
+main header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 41px 0 25px;
+}
+
+header .botao_top_header {
+    width: 136px;
+    height: 40px;
+    margin-right: 3px;
+    border-radius: 50px;
+    border: 1px solid hsl(322, 100%, 66%);
+    font-size: 16px;
+    padding: 4px 0 0 0 ;
+    background-color: #fff;
+    color: hsl(322, 100%, 66%);
+    cursor: pointer;
+}
+
+main .container_1 {
+    text-align: center;
+    padding-top: 231px;
+}
+
+.container_1 h1 {
+    color: hsl(192, 100%, 9%);
+    font-family: 'Poppins';
+    font-size: 48px;
+    padding-right: 39px;
+}
+
+.container_descricao_top {
+    display: flex;
+    justify-content: center;
+    margin-top: 23px;
+    margin-right: 16px;
+}
+
+.container_1 .descricao_top_cont1 {
+    color: hsl(192, 100%, 9%);
+    font-family: 'Open Sans';
+    font-size: 20px;
+    width: 630px;
+    padding-right: 20px;
+    line-height: 1.5;
+    
+}
+
+.container_1 .botao_top_cont1 {
+    margin: 46px 35px 50px 0;
+    width: 401px;
+    height: 80px;
+    border-radius: 70px;
+    border: none;
+    font-size: 19px;
+    font-weight: bold;
+    padding: 5px 0 0 0;
+    color: #fff;
+    letter-spacing: 1px;
+    background-color: hsl(322, 100%, 66%);
+    cursor: pointer;
+}
+
+.container_1 .imagem_screen {
+    margin: 60px 35px 20px 0;
+}
+
+.lista_geral {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 83px;
+}
+
+.lista_geral .lista1_top_cont1 {
+    text-align: left;
+    padding-right: 117px;
+}
+
+.lista_geral .lista2_top_cont1 {
+    text-align: left;
+    padding-right: 37px;
+}
+
+.lista2_top_cont1 .icon_lista2_cont1 {
+    width: 40px;
+    margin: 12px 0 -5px 10px; 
+}
+
+.lista1_top_cont1 .icon_lista1_cont1 {
+    margin: 10px 0 -11px 4px;
+}
+
+.lista1_top_cont1 h2 {
+    color: hsl(192, 100%, 9%);
+    font-family: 'Open Sans';
+    font-size: 6rem;
+}
+
+.lista2_top_cont1 h2 {
+    color: hsl(192, 100%, 9%);
+    font-family: 'Open Sans';
+    font-size: 6rem;
+}
+
+.lista_geral .informacao_lista1_cont1 {
+    color: #93979b;
+    font-family: 'Open Sans';
+    font-size: 24px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.lista_geral .informacao_lista2_cont1 {
+    color: #93979b;
+    font-family: 'Open Sans';
+    font-size: 24px;
+    text-align: center;
+    margin: 10px 35px 0 0; 
+}
+
+
+
+
+
